@@ -12,7 +12,7 @@ use Symfony\Component\Console\Input\InputInterface;
  */
 class Application extends BaseApplication
 {
-    const NAME = 'MusicPHP';
+    const NAME = 'Greedy Snake';
 
     const VERSION = '1.0.0';
 
