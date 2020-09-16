@@ -5,3 +5,4 @@
 /symfony.lock
 /vendor/
 /tests/fixtures/app/var/
+.idea/
