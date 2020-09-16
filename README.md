@@ -23,19 +23,13 @@ Let it not distract you from your work ;-)
 # Installation and Usage
                           
 ## Installation
-
-    composer require dbu/snake-bundle
+    git clone git@github.com:guanguans/snake-bundle.git
+    cd snake-bundle.git
+    composer install
 
 ## Run
 
     ./bin/snake
-
-## Development
-
-Clone the git repository, then run:
-
-    composer install
-    ./tests/fixtures/app/bin/console game:snake
 
 # FAQ
 
