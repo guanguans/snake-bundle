@@ -28,7 +28,7 @@ Let it not distract you from your work ;-)
 
 ## Run
 
-    bin/console game:snake
+    ./bin/snake
 
 ## Development
 
